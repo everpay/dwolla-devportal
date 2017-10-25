@@ -4,10 +4,10 @@
 # 3. config.yml
 
 name: docs-next
-description: Dwolla Developer Portal
+description: Everpay Developer Portal
 author:
-  name: Dwolla
-  email: api@dwolla.com
+  name: Everpay
+  email: api@everpayinc.com
 
 # Grunt handles images and assets.
 exclude: ['img', 'css', 'js', 'fonts',
